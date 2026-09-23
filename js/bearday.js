@@ -4,7 +4,7 @@
 
 //first we set up a global variable that will hold our objects. 
 //variables can hold anything, including functions.
-var spacing = 25;
+var spacing = 20;
 var txtSize = 20;
 var speedinc = 1.001;
 var maxSpeed = 1;
